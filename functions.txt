@@ -1,3 +1,5 @@
+sameer dehadrai
+
 SQL> prompt concate fname and lname;
 concate fname and lname
 SQL> select fname||lname from empd;
